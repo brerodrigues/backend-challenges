@@ -80,6 +80,29 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | Wirecard Brasil | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
+| :brazil: | [Hurb](https://www.hurb.com/br/) | Any Language, REST API or GraphQL | [Code →](https://github.com/hurbcom/challenge-bravo)
+| :canada: | [Busbud](https://www.busbud.com/) | Node.js, REST API & Any Database | [Code →](https://github.com/busbud/coding-challenge-backend-c)
+| :us: | [Unbabel](https://unbabel.com/) | Any Language | [Code →](https://github.com/Unbabel/backend-engineering-challenge)
+| 🇲🇦 | [Youcan.shop](https://youcan.shop) | PHP, Laravel | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
+
+TODO: organizar esses links
+https://github.com/itidigital/backend-challenge
+https://github.com/Rocketseat/backend-challenge
+https://github.com/TuringCom/backend_challenge_template
+https://github.com/b2w-marketplace/challenge-backend
+https://github.com/ClubPetro/backend-challenge
+https://github.com/natuelabs/challenge
+https://github.com/Hipo/backend-challenges
+https://github.com/gemography/backend-coding-challenge
+https://github.com/MKS-desenvolvimento-de-sistemas/mks-backend-challenge
+https://github.com/mercadoeletronico/backend-challenge
+https://github.com/oddle-developer/oddle-backend-challenge
+https://github.com/punkave/backend-challenge
+https://github.com/dnj/developer-recruitment/tree/master/challenges/3
+https://github.com/EverlyWell/backend-challenge
+https://github.com/mlearnbr/backend-challenge
+
+(a partir da pagina 4 em diante tem muito mais challenges): https://github.com/search?q=backend+challenge&type=repositories&p=4
 
 ## Inspiration
 
